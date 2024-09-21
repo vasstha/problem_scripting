@@ -33,11 +33,11 @@ This repository contains solutions to the first assignment of the course *Proble
 3. Run the Python scripts:
    - For function-based solutions:
      ```bash
-     python functions.py
+     python func_1.py
      ```
    - For class-based solutions:
      ```bash
-     python classes.py
+     python main.py
      ```
 
 ## Requirements
