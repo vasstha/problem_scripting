@@ -33,11 +33,12 @@ This repository contains solutions to the first assignment of the course *Proble
 3. Run the Python scripts:
    - For function-based solutions:
      ```bash
-     python functions.py
+     python func_1.py
      ```
    - For class-based solutions:
+     Ensure to have all the files(main.py, BankAccount, CheckingAccount, SavingsAccount)  in same directory.
      ```bash
-     python classes.py
+     python main.py
      ```
 
 ## Requirements
@@ -45,7 +46,7 @@ This repository contains solutions to the first assignment of the course *Proble
 - No additional libraries are required for this assignment.
 
 ## Contact
-For any queries, feel free to contact me via [your email] or open an issue in this repository.
+For any queries, feel free to contact me via [vashr0444@oslomet.no] or open an issue in this repository.
 
 ---
 
